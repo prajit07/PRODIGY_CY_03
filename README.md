@@ -1,6 +1,7 @@
 # PRODIGY_CY_03
 
 Poidog Password Strength Checker
+
 This repository contains a simple yet effective Python program designed to evaluate the strength of a user's password and provide feedback based on specific criteria. The program checks for various elements such as length, the presence of uppercase and lowercase letters, numbers, and special characters to determine the overall strength of the password.
 
 Features:
